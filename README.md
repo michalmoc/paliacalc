@@ -1,7 +1,6 @@
 # Palia calculator
 
-Tool to fetch data from Paliapedia and perform some calculations. Downloaded results are cached. 
-For now, it has only one functionality.
+Tool to fetch data from Paliapedia and perform some calculations. Downloaded results are cached.
 
 # Best focus source
 
@@ -105,3 +104,47 @@ For full results see the table below (best result at the bottom):
 | Meaty Stir Fry              |  0.16      |
 | Chapaa Masala               |  0.15      |
 | Stuffed Cabbage Rolls       |  0.14      |
+
+# Best crafter
+Value created by crafter in time unit. Assuming input vegetables are of star quality.
+
+| Product              | Income per minute |
+|----------------------|-------------------|
+| Sapwood Plank        | 0.00              |
+| Copper Bar           | 0.33              |
+| Fabric               | 0.38              |
+| Glass Pane           | 0.38              |
+| Leather              | 0.40              |
+| Carrot Seed          | 0.42              |
+| Ceramic              | 0.50              |
+| Flow-Infused Plank   | 0.50              |
+| Heartwood Plank      | 0.50              |
+| Iron Bar             | 0.50              |
+| Stone Brick          | 0.50              |
+| Wheat Seed           | 0.54              |
+| Tomato Plant Seed    | 0.55              |
+| Rice Seed            | 0.61              |
+| Pickled Carrots      | 0.61              |
+| Pickled Tomatoes     | 0.61              |
+| Pickled Spicy Pepper | 0.62              |
+| Apple Jam            | 0.62              |
+| Bok Choy Kimchi      | 0.62              |
+| Napa Cabbage Kimchi  | 0.62              |
+| Pickled Corn         | 0.62              |
+| Pickled Onions       | 0.62              |
+| Bok Choy Seed        | 0.62              |
+| Corn Seed            | 0.62              |
+| Cotton Seed          | 0.62              |
+| Napa Cabbage Seed    | 0.62              |
+| Onion Seed           | 0.62              |
+| Potato Seed          | 0.62              |
+| Spicy Pepper Seed    | 0.63              |
+| Apple Tree Seed      | 0.63              |
+| Blueberry Jam        | 0.63              |
+| Pickled Potatoes     | 0.64              |
+| Glass Bulb           | 0.70              |
+| Gold Bar             | 0.92              |
+| Silver Bar           | 0.92              |
+| Blueberry Bush Seed  | 1.26              |
+| Palium Bar           | 2.92              |
+| Silk                 | 7.50              |

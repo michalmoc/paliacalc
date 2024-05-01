@@ -8,3 +8,6 @@ class Tag:
     @cached_property
     def options(self) -> [str]:
         return [i['key'] for i in self.lst]
+
+    def __add__(self, other):
+        return Tag(self.lst + other.lst)

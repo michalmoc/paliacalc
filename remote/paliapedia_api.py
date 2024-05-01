@@ -37,3 +37,6 @@ class PaliaApi(RestApi):
 
     def get_tag(self, key: str):
         return self.get_list(f'items', params={'filters': 'tag:' + key})
+
+    def get_recipes(self, category: str):
+        return self.get_list(f'recipes', params={'filters': 'category:' + category})
